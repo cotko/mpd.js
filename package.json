@@ -1,10 +1,10 @@
 {
   "name": "mpd2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Music Player Daemon client",
   "main": "./lib/index.js",
   "author": "Cotko <cotkocot@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "UNLICENSE",
   "scripts": {
     "lint": "standard ./lib/**/*.js",
     "lintfix": "standard ./lib/**/*.js --fix"
