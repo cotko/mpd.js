@@ -1,6 +1,6 @@
 {
   "name": "mpd2",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Music Player Daemon client",
   "main": "./lib/index.js",
   "author": "Cotko <cotkocot@gmail.com>",
